@@ -1,3 +1,4 @@
 resources:
   - storagebucket.yaml
   - networkpolicy.yaml
+  - privilegeescalation.yaml
